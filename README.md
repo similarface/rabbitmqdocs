@@ -105,3 +105,8 @@ See rabbitmqdocs.dlxs
 ##### 架构
 
 ##### Demo
+
+
+# END
+
+![RabbitMQ.png](docs/RabbitMQ.png)
